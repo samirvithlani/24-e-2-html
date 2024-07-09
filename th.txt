@@ -1,0 +1,55 @@
+html: scripting...
+
+server side:c,cpp,java, python
+client side: browser , html ,js,css
+
+----------------------------------------
+browser , vs code
+
+to create webpage
+
+--------------------------------------------
+dynamic data:
+static data:
+-------------------------------------------
+
+printf();
+tags
+<tagname></tagname>
+
+<Doctype html> 5.0
+<html></html>
+
+Headings
+h1 to h6
+
+tags:
+<b>Bold</b>
+<i>italic</i>
+<br> line break
+
+
+<b>BOLD</b> <br>
+    <strong>Strong</strong>
+    <br>
+    <i>India</i>
+    <br>
+    <em>Emphasis</em>
+    <br>
+    <del>DELETE</del>
+    <br>
+    <s>Strike</s>
+    <br>
+    <u>Underline</u>
+    <br>
+    <ins>Ins..</ins>
+    <br>
+    <mark>Mark...</mark>
+
+    <sub>Sub</sub>
+    <sup>SUP</sup>
+
+    <small>Small</small>
+
+
+
