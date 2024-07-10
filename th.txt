@@ -53,3 +53,21 @@ tags:
 
 
 
+
+
+list:
+2 type of lists are there
+1)ordered list : <ol>
+2)unordered list : <ul>
+
+
+list items: <li>
+
+attributes: 
+ol:type
+
+
+
+
+
+
