@@ -79,5 +79,17 @@ _parent: parent level
 
 
 
+style:
+
+
+
+table:
+<table> : to create table
+<thead> : table head
+<tbody> : table body
+<th> : table heading
+<tr> : table row
+<td> : table data
+
 
 
