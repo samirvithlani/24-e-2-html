@@ -67,6 +67,16 @@ attributes:
 ol:type
 
 
+a:
+href : hyperlink reference
+url: uniform resource locator
+
+target:
+_blank : new tab
+_self  : same tab
+_top   : top level
+_parent: parent level
+
 
 
 
