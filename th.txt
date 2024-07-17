@@ -92,4 +92,6 @@ table:
 <td> : table data
 
 
+rowspan = 2 : 2 rows
+colspan = 2 : 2 columns
 
