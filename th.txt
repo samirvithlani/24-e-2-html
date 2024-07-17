@@ -95,3 +95,15 @@ table:
 rowspan = 2 : 2 rows
 colspan = 2 : 2 columns
 
+
+
+create table of books having 5 columns and 5 rows
+1)Book Name
+2)Author
+3)Price
+4)Publication
+5)Year
+
+conditions
+1) 1 Author have written 2 books
+2) 3 books launched in 2020
