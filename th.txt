@@ -107,3 +107,11 @@ create table of books having 5 columns and 5 rows
 conditions
 1) 1 Author have written 2 books
 2) 3 books launched in 2020
+
+
+image:
+img tag
+src
+alt
+height
+width
