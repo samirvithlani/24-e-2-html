@@ -117,3 +117,17 @@ height
 width
 
 deprication:
+
+
+
+indentifiers:
+id = unique
+name = non unique
+class = non unique
+tagName = non unique
+
+<h1 id="text">Heading</h1>
+<p class="parent"></p>
+
+<table name = "studenttable">
+
