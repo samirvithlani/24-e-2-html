@@ -131,3 +131,12 @@ tagName = non unique
 
 <table name = "studenttable">
 
+
+blood donation form:
+text donor name: id ="donorname"
+text blood group: id = "bloodgroup"
+number age: id = "age"
+radio : any desease: id = "disease"
+select : city: id = "city"
+
+
